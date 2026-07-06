@@ -61,8 +61,8 @@ Tested with Python 3.11+.
 ## How to run
 
 ```bash
-git clone https://github.com/jamesg19/pm25-vehicle-fleet-guatemala.git
-cd pm25-vehicle-fleet-guatemala
+git clone https://github.com/jamesg19//air-quality-vehicle-fleet-gt.git
+cd /air-quality-vehicle-fleet-gt
 unzip Data.zip
 jupyter notebook air_quality.ipynb
 ```
